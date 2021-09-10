@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
         }
 
     }
+    //so i added this comment
     public void pause(View view){
         if(mediaPlayer != null){
             mediaPlayer.pause();
